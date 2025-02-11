@@ -186,5 +186,5 @@ crontab -e
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
 - [Kubescape](https://hub.armosec.io/docs)
 
-This **README.md** includes debugging tips, commands, and fixes for common Kubernetes, Minikube, and networking issues. 🚀
+
 
