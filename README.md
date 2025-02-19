@@ -21,7 +21,8 @@ This project focuses on **automated security monitoring, compliance enforcement,
 ## 🚀 Architecture Diagram
 
 
-![1686150239434](https://github.com/user-attachments/assets/770e34ec-df19-4385-a051-392a9e39427e)
+![414827381-08722083-da90-444d-8bd5-69d85b4e21f6](https://github.com/user-attachments/assets/150cb6a0-50e9-4716-a5d2-146ba4909091)
+
 
 
 ---
